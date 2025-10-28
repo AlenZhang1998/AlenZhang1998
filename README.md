@@ -11,7 +11,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm AlenZhang1998</h1> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alen+Zhang!;Frontend+Developer+from+Shenzhen;Vue+%7C+Nuxt+%7C+WeChat+MiniProgram;Design+%2B+Code+%3D+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Alen+Zhang!;Frontend+Developer+from+Shenzhen;Vue+%7C+Nuxt+%7C+WeChat+MiniProgram;Design+%2B+Code+%3D+💙" alt="Typing SVG" />
 </div>
 <h3 align="center">A passionate frontend developer from China</h3>
 
