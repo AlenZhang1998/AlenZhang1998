@@ -30,8 +30,12 @@
 </p>
 
 <!-- 技术栈（浅色一行，自动适配深浅色） -->
+### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,scss,tailwind,vite,webpack,nodejs,express,mongodb,linux,figma,ps,ai,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,scss,tailwind,vite,webpack,nodejs,express,mongodb,linux,figma,ps,ai,git,github" /><br/>
+  <!-- 额外补充 -->
+  <img src="https://img.shields.io/badge/WeChat%20MiniProgram-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/UniApp-4FC08D?style=for-the-badge&logo=uni-app&logoColor=white" />
 </p>
 
 <!-- 支持区（如未开通可保留占位或删除） -->
