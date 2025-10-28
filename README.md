@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Alen+Zhang!;✨+Front-end+Developer;💚+Vue+%2F+Nuxt+%2F+WeChat+MiniProgram+Lover" alt="Typing SVG" />
+</div>
+
+
 <h2>😜Hi! Nice to see you!                  </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhangMin1998/ZhangMin1998/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangMin1998&show_icons=true)](https://github.com/ZhangMin1998/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangMin1998&layout=compact)](https://github.com/ZhangMin1998/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm ZhangMin1998</h1>
+<h1 align="center">Hi 👋, I'm AlenZhang1998</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
 <h3 align="left">Connect with me: alenzhang1998@qq.com / alenzhang1998@gmail.com</h3>
