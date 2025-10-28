@@ -6,8 +6,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhangMin1998/ZhangMin1998/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangMin1998&show_icons=true)](https://github.com/ZhangMin1998/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangMin1998&layout=compact)](https://github.com/ZhangMin1998/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenZhang1998&show_icons=true)](https://github.com/AlenZhang1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenZhang1998&layout=compact)](https://github.com/AlenZhang1998/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm AlenZhang1998</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
