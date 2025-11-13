@@ -1,6 +1,6 @@
 <h2 align="center">😜 Hi! Nice to see you! </h2>
 
-<!-- Snake: 记得你的仓库需要配置 snake action，否则这里会 404 -->
+<!-- Snake: 记得你的仓库需要配置 snake action， 否则这里会 404 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlenZhang1998/AlenZhang1998/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlenZhang1998/AlenZhang1998/output/github-contribution-grid-snake.svg">
