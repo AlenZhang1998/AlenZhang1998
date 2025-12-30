@@ -1,4 +1,4 @@
-<h2 align="center">😜 Hi! Nice to see you!  </h2>
+<h2 align="center">😜 Hi! Nice to see you!   </h2>
 
 <!-- Snake: 记得你的仓库需要配置 snake action， 否则这里会 404  -->
 <picture>
